@@ -38,6 +38,7 @@ Outputs (in `outputs/`):
 | `backtest_weather.csv`, `backtest_dams.csv` | hindcast verification metrics |
 | `forecast.json` | everything above plus history and fitted coefficients (feeds the HTML report) |
 | `figures/*.png` | static charts |
+| `report.html` | interactive report (charts with hover, modelling, backtest) |
 
 ## Modelling
 
